@@ -1,0 +1,1 @@
+DOMAIN = "trash_schedule"

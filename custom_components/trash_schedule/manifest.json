@@ -1,0 +1,13 @@
+{
+  "domain": "trash_schedule",
+  "name": "Trash Schedule",
+  "version": "2.0.0",
+  "documentation": "https://github.com/ozumado/trash-schedule",
+  "issue_tracker": "https://github.com/ozumado/trash-schedule/issues",
+  "codeowners": [
+    "@ozumado"
+  ],
+  "config_flow": true,
+  "iot_class": "cloud_polling",
+  "requirements": []
+}

@@ -1,0 +1,20 @@
+{
+  "config": {
+    "step": {
+      "user": {
+        "title": "Trash Schedule",
+        "description": "Enter the municipality ID and street from the FX Systems collection schedule.",
+        "data": {
+          "gmina_id": "Municipality ID (gmina_id)",
+          "street": "Street name"
+        }
+      }
+    },
+    "error": {
+      "invalid_input": "Enter both municipality ID and street."
+    },
+    "abort": {
+      "already_configured": "This municipality and street are already configured."
+    }
+  }
+}
